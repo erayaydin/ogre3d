@@ -1,0 +1,3 @@
+[submodule "Libraries/Ogre3D"]
+	path = Libraries/Ogre3D
+	url = git@github.com:OGRECave/ogre.git
